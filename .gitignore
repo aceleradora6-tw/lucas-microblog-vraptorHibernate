@@ -1,0 +1,8 @@
+bin/
+target/
+*.class
+*.jar
+.classpath
+.settings/
+.vraptor
+.project
