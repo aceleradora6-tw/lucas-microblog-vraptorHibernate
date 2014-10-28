@@ -26,10 +26,4 @@ public class ExemploTest {
 		assertThat(1+1, is(2));
 	}
 	
-	@Test
-	public void testeRuim() throws Exception {
-		String result = "Ola Mundo";
-		
-		assertThat(result, is(""));
-	}
 }
